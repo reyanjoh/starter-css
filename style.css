@@ -66,13 +66,13 @@
 /* FONT SIZINGS */
 
 
-.weight-300{font-weight: 300;}
-.weight-400{font-weight: 400;}
-.weight-500{font-weight: 500;}
-.weight-600{font-weight: 600;}
-.weight-700{font-weight: 700;}
-.weight-800{font-weight: 800;}
-.weight-900{font-weight: 900;}
+.weight-3{font-weight: 300;}
+.weight-4{font-weight: 400;}
+.weight-5{font-weight: 500;}
+.weight-6{font-weight: 600;}
+.weight-7{font-weight: 700;}
+.weight-8{font-weight: 800;}
+.weight-9{font-weight: 900;}
 
 
 
@@ -107,7 +107,7 @@
 .padding-0-6{padding: 0 var(--space-wide);}
 
 
-.uppervase{text-transform: uppercase;}
+.uppercase{text-transform: uppercase;}
 
 
 .sections-content-paddings{
