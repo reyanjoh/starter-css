@@ -35,14 +35,10 @@
 
 
 
-
-
-
-
 .highlight-red{color: var(--highlight-red);}
 
-.bg-color-yellow{background-color: var(--ligh-yellow-color);}
 
+.bg-color-yellow{background-color: var(--ligh-yellow-color);}
 
 .bg-color-ligh{background-color: var(--bg-color-light);}
 .bg-color-mid{background-color: var(--bg-color-mid);}
